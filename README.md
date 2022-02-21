@@ -5,3 +5,7 @@
 - shortcuts temp 4
 - shortcuts temp 5
 - shortcuts temp 6
+
+- shortcuts temp 7
+- shortcuts temp 8
+- shortcuts temp 9
