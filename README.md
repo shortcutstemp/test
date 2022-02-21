@@ -1,1 +1,2 @@
-- shortcuts temp
+- shortcuts temp 1
+- shortcuts temp 2
